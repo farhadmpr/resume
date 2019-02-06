@@ -1,0 +1,79 @@
+{
+    "title": "Hello I'm Farhad!",
+    "subtitle": "Full Stack Dev | Open-Source Enthusiast",
+    "links": {
+        "github": "https://github.com/farhadmpr",
+        "stackoverflow": "https://stackoverflow.com/story/farhadm",
+        "linkedin": "https://www.linkedin.com/in/farhad-mortezapour"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "I love to learn."
+                },
+                {
+                    "type": "p",
+                    "content": "I beleive in self-learning."
+                },
+                {
+                    "type": "p",
+                    "content": "Software engineering is a healthy mix of science and art, that's what I live my professional life by! I enjoy learning new technologies and playing music. Apart from this, I have strong interest in problem solving."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/react.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/javascript.png",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/html.png",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/css.png",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/python.png",
+                        "title": "Python"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/prog.png",
+                        "title": "Django"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "down": "images/down.png"
+    },
+    "colors": ["#581845", "#34495E", "#008080"]
+}
